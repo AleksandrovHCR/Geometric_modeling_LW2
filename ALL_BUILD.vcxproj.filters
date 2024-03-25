@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Aleksandrov\Desktop\Учёба\Геоммод\LabWork\Lab2\code\CMakeLists.txt">
+      <Filter>Other Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Other Files">
+      <UniqueIdentifier>{E1D8E0D7-25E2-3979-985D-C7C0C6261C84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:/Users/Aleksandrov/Desktop/Учёба/Геоммод/LabWork/Lab2/LWSC/CMakeFiles/GeomModelCurves.dir
+C:/Users/Aleksandrov/Desktop/Учёба/Геоммод/LabWork/Lab2/LWSC/CMakeFiles/ALL_BUILD.dir
+C:/Users/Aleksandrov/Desktop/Учёба/Геоммод/LabWork/Lab2/LWSC/CMakeFiles/ZERO_CHECK.dir
