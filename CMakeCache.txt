@@ -189,7 +189,7 @@ CMAKE_VERBOSE_MAKEFILE:BOOL=OFF
 GLUT_INCLUDE_DIR:PATH=C:/Users/Aleksandrov/Desktop/Учёба/Геоммод/LabWork/Lab2/include
 
 //GLUT library file
-GLUT_LIBRARIES:FILEPATH=
+GLUT_LIBRARIES:FILEPATH=C:/Users/Aleksandrov/Desktop/Учёба/Геоммод/LabWork/Lab2/freeglut.lib
 
 //Path to a library.
 GLUT_glut_LIBRARY_DEBUG:FILEPATH=C:/Users/Aleksandrov/Desktop/Учёба/Геоммод/LabWork/Lab2/freeglut.lib

@@ -319,8 +319,12 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   <ItemGroup>
     <ClCompile Include="C:\Users\Aleksandrov\Desktop\Учёба\Геоммод\LabWork\Lab2\code\graphObject.cpp" />
     <ClCompile Include="C:\Users\Aleksandrov\Desktop\Учёба\Геоммод\LabWork\Lab2\code\main.cpp" />
+    <ClCompile Include="Tasks\bezier_curve.cpp" />
     <ClInclude Include="C:\Users\Aleksandrov\Desktop\Учёба\Геоммод\LabWork\Lab2\code\graphObject.h" />
     <ClInclude Include="C:\Users\Aleksandrov\Desktop\Учёба\Геоммод\LabWork\Lab2\code\vector.h" />
+    <ClInclude Include="Tasks\advanced_curve.h" />
+    <ClInclude Include="Tasks\bezier_curve.h" />
+    <ClInclude Include="Tasks\B_Spline.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\Aleksandrov\Desktop\Учёба\Геоммод\LabWork\Lab2\LWSC\ZERO_CHECK.vcxproj">
