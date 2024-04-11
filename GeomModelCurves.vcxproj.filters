@@ -10,6 +10,9 @@
     <ClCompile Include="Tasks\bezier_curve.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Tasks\B_Spline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\Aleksandrov\Desktop\Учёба\Геоммод\LabWork\Lab2\code\graphObject.h">

@@ -320,6 +320,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\Aleksandrov\Desktop\Учёба\Геоммод\LabWork\Lab2\code\graphObject.cpp" />
     <ClCompile Include="C:\Users\Aleksandrov\Desktop\Учёба\Геоммод\LabWork\Lab2\code\main.cpp" />
     <ClCompile Include="Tasks\bezier_curve.cpp" />
+    <ClCompile Include="Tasks\B_Spline.cpp" />
     <ClInclude Include="C:\Users\Aleksandrov\Desktop\Учёба\Геоммод\LabWork\Lab2\code\graphObject.h" />
     <ClInclude Include="C:\Users\Aleksandrov\Desktop\Учёба\Геоммод\LabWork\Lab2\code\vector.h" />
     <ClInclude Include="Tasks\advanced_curve.h" />
